@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rwbog\\OneDrive\\Desktop\\SelfStudy\\SchoolApp\\SchoolFormsApp1\\SchoolFormsApp1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rwbog\\OneDrive\\Desktop\\SelfStudy\\SchoolApp\\SchoolFormsApp1\\SchoolFormsApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rwbog\\OneDrive\\Desktop\\SelfStudy\\SchoolApp\\SchoolFormsApp1\\SchoolFormsApp1.csproj",
+        "projectName": "SchoolFormsApp1",
+        "projectPath": "C:\\Users\\rwbog\\OneDrive\\Desktop\\SelfStudy\\SchoolApp\\SchoolFormsApp1\\SchoolFormsApp1.csproj",
+        "packagesPath": "C:\\Users\\rwbog\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rwbog\\OneDrive\\Desktop\\SelfStudy\\SchoolApp\\SchoolFormsApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rwbog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\rwbog\\OneDrive\\Desktop\\SelfStudy\\SchoolApp\\SchoolLibrary\\SchoolLibrary.csproj": {
+                "projectPath": "C:\\Users\\rwbog\\OneDrive\\Desktop\\SelfStudy\\SchoolApp\\SchoolLibrary\\SchoolLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rwbog\\OneDrive\\Desktop\\SelfStudy\\SchoolApp\\SchoolLibrary\\SchoolLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rwbog\\OneDrive\\Desktop\\SelfStudy\\SchoolApp\\SchoolLibrary\\SchoolLibrary.csproj",
+        "projectName": "SchoolLibrary",
+        "projectPath": "C:\\Users\\rwbog\\OneDrive\\Desktop\\SelfStudy\\SchoolApp\\SchoolLibrary\\SchoolLibrary.csproj",
+        "packagesPath": "C:\\Users\\rwbog\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rwbog\\OneDrive\\Desktop\\SelfStudy\\SchoolApp\\SchoolLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rwbog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

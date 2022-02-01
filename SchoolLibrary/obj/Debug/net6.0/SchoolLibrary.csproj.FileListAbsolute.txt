@@ -1,0 +1,12 @@
+C:\Users\rwbog\OneDrive\Desktop\SelfStudy\SchoolApp\SchoolLibrary\bin\Debug\net6.0\SchoolLibrary.deps.json
+C:\Users\rwbog\OneDrive\Desktop\SelfStudy\SchoolApp\SchoolLibrary\bin\Debug\net6.0\SchoolLibrary.dll
+C:\Users\rwbog\OneDrive\Desktop\SelfStudy\SchoolApp\SchoolLibrary\bin\Debug\net6.0\ref\SchoolLibrary.dll
+C:\Users\rwbog\OneDrive\Desktop\SelfStudy\SchoolApp\SchoolLibrary\bin\Debug\net6.0\SchoolLibrary.pdb
+C:\Users\rwbog\OneDrive\Desktop\SelfStudy\SchoolApp\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.csproj.AssemblyReference.cache
+C:\Users\rwbog\OneDrive\Desktop\SelfStudy\SchoolApp\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwbog\OneDrive\Desktop\SelfStudy\SchoolApp\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\rwbog\OneDrive\Desktop\SelfStudy\SchoolApp\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.AssemblyInfo.cs
+C:\Users\rwbog\OneDrive\Desktop\SelfStudy\SchoolApp\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rwbog\OneDrive\Desktop\SelfStudy\SchoolApp\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.dll
+C:\Users\rwbog\OneDrive\Desktop\SelfStudy\SchoolApp\SchoolLibrary\obj\Debug\net6.0\ref\SchoolLibrary.dll
+C:\Users\rwbog\OneDrive\Desktop\SelfStudy\SchoolApp\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.pdb
